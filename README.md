@@ -12,7 +12,7 @@ The goal is to inspire creative individuals **to create and maintain their own p
 
 ```html
 <a href="https://atlasnesos.space/#your-id-here" target="_blank" rel="noopener">
-  <img src="https://atlasnesos.space/atlas-black-transparent.svg" alt="XXIIVV webring"/>
+  <img src="https://atlasnesos.space/atlas-black-transparent.svg" alt="Atlas webring"/>
 </a>
 ```
 
